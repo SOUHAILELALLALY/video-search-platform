@@ -5,8 +5,6 @@ Video Search allows users to find relevant video clips using text or image queri
 
     - Video to Clip Splitting: Automatically splits videos into short clips.
     
-    - Frame Extraction: Extracts the middle frame from each clip for embedding.
-    
     - Text & Image Embeddings: Uses OpenAI’s CLIP model to embed both images and text.
     
     - FAISS Indexing: Efficient similarity search using vector embeddings.
