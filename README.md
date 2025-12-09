@@ -40,12 +40,12 @@ Video Search allows users to find relevant video clips using text or image queri
 **1. Build the Index**
 
 This step processes all videos in **sample_videos/**, splits them into clips, extracts frames, generates embeddings, and builds a FAISS index.
-python preprocess.py
+**python preprocess.py**
 
 **2. Run the Streamlit App**
 
 After building the index, start the web interface:
-streamlit run app_streamlit.py
+**streamlit run app_streamlit.py**
 
     - Enter a text query describing the scene you want to find.
     
