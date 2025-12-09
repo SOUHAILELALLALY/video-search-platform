@@ -45,9 +45,9 @@ This step processes all videos in **sample_videos/**, splits them into clips, ex
 After building the index, start the web interface:
 **streamlit run app_streamlit.py**
 
-    - Enter a text query describing the scene you want to find.
+    - Enter a text query describing the scene you want to find
     
-    - Or upload an image to find similar clips.
+    - Or upload an image to find similar clips
     
     - Results will display the top-ranked clips
 
