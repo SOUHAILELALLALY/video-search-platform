@@ -17,9 +17,9 @@ Video Search allows users to find relevant video clips using text or image queri
 
 ## Requirements
 
-    - Python 3.9+
+    - Python
     
-    - FFmpeg installed and available in PATH
+    - FFmpeg
     
     - PyTorch
     
